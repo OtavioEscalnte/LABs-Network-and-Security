@@ -22,5 +22,5 @@ Este laboratório tem como objetivo configurar VLANs, portas de acesso, VLAN pad
 
 ---
 
-## ⚠️⚠️ O lab já está configurado. Caso deseje refazê-lo, será necessário **wipar os nodes**. ⚠️⚠️
+## ⚠️ O lab já está configurado. Caso deseje refazê-lo, será necessário **wipar os nodes**. ⚠️
 
