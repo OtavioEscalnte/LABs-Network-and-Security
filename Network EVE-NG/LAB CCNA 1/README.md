@@ -15,7 +15,6 @@ A topologia utilizada contém:
   - **192.168.100.0/24**  
   - **200.200.200.0/24**
 <img width="1469" height="677" alt="Image" src="https://github.com/user-attachments/assets/c1084c7e-b293-4b59-845f-a51e2453c794" />
----
 
 # ✅ Etapas Realizadas
 
